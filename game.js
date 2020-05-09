@@ -1,1 +1,492 @@
-var _0x3e7f=['addColumn','innerHTML','MweuL','createElement','TAQIn','COLlL','function\x20*\x5c(\x20*\x5c)','remove','classList','user=','https://typingchamps.000webhostapp.com/datashow.php','IKqEK','.sresult','abs','.input_area','focus','&accu=','ybULE','length','rzWuL','post','charts','exception','counter','ajax','line','qPMAj','dkokt','debug','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','DataTable','incorrect_char','chain','https://typingchamps.000webhostapp.com/matkar.php','disabled','https://typingchamps.000webhostapp.com/phpincert.php','round','action','textContent','foo','#demo3','#demo7','chart_div','span','push','addRows','.curr_time','return\x20/\x22\x20+\x20this\x20+\x20\x22/','ihhIU','#type-section','vmeET','voVUn','nChrY','HGnep','Press\x20restart\x20Symbol\x20to\x20start\x20a\x20Typing\x20Test.','visualization','log','.curr_errors','trace','forEach','.curr_wpm','constructor','stateObject','knFJf','gger','appendChild','{}.constructor(\x22return\x20this\x22)(\x20)','#demo4','string','replace','POST','SGXbc','jzRUE','NERWb','mUeZJ','apply','warn','xivcv','&pwd=','innerText','.curr_cpm','WHDoX','compile','toString','WPM','table','querySelector','setOnLoadCallback','parse','while\x20(true)\x20{}','current','.restart_btn','corechart','lAdBx','WTLMs','display','JWUgh','150px','height','number','.quote','.acc','#demo6','split','.sahigalat','input','.keystrokes','txtHint','console','error','style','block','mSnWU','debu','test','Rwpot','correct_char','tgoWh','none','ldbPw','#demo','init','ekDlC','info','#demo2','OpIPJ','#demo5','getElementById','#txtHint','load','add','tSyQg','value','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','return\x20(function()\x20','.sahi','.galat','EKSpR'];(function(_0x31f4ac,_0x3e7f1c){var _0x4bc2bb=function(_0x31d52a){while(--_0x31d52a){_0x31f4ac['push'](_0x31f4ac['shift']());}};var _0x47eb19=function(){var _0x184627={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x92a84d,_0x5575c6,_0x5f0269,_0x654451){_0x654451=_0x654451||{};var _0x5ac2fc=_0x5575c6+'='+_0x5f0269;var _0xf19ce6=0x0;for(var _0x1a5391=0x0,_0x27abb1=_0x92a84d['length'];_0x1a5391<_0x27abb1;_0x1a5391++){var _0x49933b=_0x92a84d[_0x1a5391];_0x5ac2fc+=';\x20'+_0x49933b;var _0x37143e=_0x92a84d[_0x49933b];_0x92a84d['push'](_0x37143e);_0x27abb1=_0x92a84d['length'];if(_0x37143e!==!![]){_0x5ac2fc+='='+_0x37143e;}}_0x654451['cookie']=_0x5ac2fc;},'removeCookie':function(){return'dev';},'getCookie':function(_0x126682,_0x2be430){_0x126682=_0x126682||function(_0x1032ee){return _0x1032ee;};var _0x22a1bc=_0x126682(new RegExp('(?:^|;\x20)'+_0x2be430['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var _0x50f719=function(_0x2d74d4,_0x36090d){_0x2d74d4(++_0x36090d);};_0x50f719(_0x4bc2bb,_0x3e7f1c);return _0x22a1bc?decodeURIComponent(_0x22a1bc[0x1]):undefined;}};var _0x34e4a5=function(){var _0x19def0=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x19def0['test'](_0x184627['removeCookie']['toString']());};_0x184627['updateCookie']=_0x34e4a5;var _0x7fbe25='';var _0x24286f=_0x184627['updateCookie']();if(!_0x24286f){_0x184627['setCookie'](['*'],'counter',0x1);}else if(_0x24286f){_0x7fbe25=_0x184627['getCookie'](null,'counter');}else{_0x184627['removeCookie']();}};_0x47eb19();}(_0x3e7f,0x136));var _0x4bc2=function(_0x31f4ac,_0x3e7f1c){_0x31f4ac=_0x31f4ac-0x0;var _0x4bc2bb=_0x3e7f[_0x31f4ac];return _0x4bc2bb;};var _0x654451=function(){var _0x599fc7=!![];return function(_0x392738,_0xe89cb5){if(_0x4bc2('0x55')===_0x4bc2('0x55')){var _0x36185e=_0x599fc7?function(){if(_0x4bc2('0x51')==='Rwpot'){if(_0xe89cb5){var _0x237694=_0xe89cb5[_0x4bc2('0x29')](_0x392738,arguments);_0xe89cb5=null;return _0x237694;}}else{var _0xc29dce=test['constructor'](_0x4bc2('0xd'))()['compile'](_0x4bc2('0x85'));return!_0xc29dce['test'](_0x5f0269);}}:function(){};_0x599fc7=![];return _0x36185e;}else{_0x92a84d(this,function(){var _0x5e754e=new RegExp(_0x4bc2('0x6e'));var _0x9c6b4c=new RegExp('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i');var _0x3903f8=_0x24286f(_0x4bc2('0x57'));if(!_0x5e754e['test'](_0x3903f8+_0x4bc2('0x88'))||!_0x9c6b4c[_0x4bc2('0x50')](_0x3903f8+_0x4bc2('0x47'))){_0x3903f8('0');}else{_0x24286f();}})();}};}();var _0x5f0269=_0x654451(this,function(){var _0x52d479=function(){var _0x5c995d=_0x52d479[_0x4bc2('0x1b')](_0x4bc2('0xd'))()[_0x4bc2('0x30')](_0x4bc2('0x85'));return!_0x5c995d[_0x4bc2('0x50')](_0x5f0269);};return _0x52d479();});_0x5f0269();var _0x92a84d=function(){var _0x1f2f2d=!![];return function(_0x5c3d01,_0x21ba4c){var _0x580b17=_0x1f2f2d?function(){if(_0x21ba4c){if(_0x4bc2('0x73')==='IKqEK'){var _0x2286b0=_0x21ba4c[_0x4bc2('0x29')](_0x5c3d01,arguments);_0x21ba4c=null;return _0x2286b0;}else{document[_0x4bc2('0x5d')]('txtHint')[_0x4bc2('0x69')]=data;}}}:function(){};_0x1f2f2d=![];return _0x580b17;};}();(function(){_0x92a84d(this,function(){var _0x311b12=new RegExp('function\x20*\x5c(\x20*\x5c)');var _0x132959=new RegExp(_0x4bc2('0x63'),'i');var _0x4f44fb=_0x24286f(_0x4bc2('0x57'));if(!_0x311b12[_0x4bc2('0x50')](_0x4f44fb+'chain')||!_0x132959[_0x4bc2('0x50')](_0x4f44fb+_0x4bc2('0x47'))){_0x4f44fb('0');}else{_0x24286f();}})();}());var _0x184627=function(){var _0xf51b2=!![];return function(_0x2b777d,_0x17f91c){if(_0x4bc2('0x6a')===_0x4bc2('0x53')){that[_0x4bc2('0x4a')]=function(_0x3758ca){var _0x25c8b8={};_0x25c8b8[_0x4bc2('0x16')]=_0x3758ca;_0x25c8b8['warn']=_0x3758ca;_0x25c8b8[_0x4bc2('0x84')]=_0x3758ca;_0x25c8b8[_0x4bc2('0x59')]=_0x3758ca;_0x25c8b8[_0x4bc2('0x4b')]=_0x3758ca;_0x25c8b8[_0x4bc2('0x7e')]=_0x3758ca;_0x25c8b8[_0x4bc2('0x33')]=_0x3758ca;_0x25c8b8['trace']=_0x3758ca;return _0x25c8b8;}(func);}else{var _0xef9069=_0xf51b2?function(){if('fEDFT'==='uCKnd'){clearInterval(untiltimer);}else{if(_0x17f91c){var _0x18be1c=_0x17f91c[_0x4bc2('0x29')](_0x2b777d,arguments);_0x17f91c=null;return _0x18be1c;}}}:function(){};_0xf51b2=![];return _0xef9069;}};}();var _0x31d52a=_0x184627(this,function(){var _0x234090=function(){};var _0x29a129=function(){if(_0x4bc2('0x1d')!==_0x4bc2('0x2b')){var _0x6d5109;try{if(_0x4bc2('0x82')===_0x4bc2('0x6d')){if(current_quote==''){updateQuote();}else{clearInterval(untiltimer);}}else{_0x6d5109=Function(_0x4bc2('0x64')+_0x4bc2('0x20')+');')();}}catch(_0x13b25a){if(_0x4bc2('0xe')===_0x4bc2('0x3c')){var _0x4cfb7c=fn['apply'](context,arguments);fn=null;return _0x4cfb7c;}else{_0x6d5109=window;}}return _0x6d5109;}else{result('0');}};var _0x6e7f4c=_0x29a129();if(!_0x6e7f4c[_0x4bc2('0x4a')]){if(_0x4bc2('0x12')!==_0x4bc2('0x2f')){_0x6e7f4c[_0x4bc2('0x4a')]=function(_0x96bfe6){if(_0x4bc2('0x79')!=='ybULE'){var _0x16e716={};_0x16e716['log']=_0x96bfe6;_0x16e716[_0x4bc2('0x2a')]=_0x96bfe6;_0x16e716[_0x4bc2('0x84')]=_0x96bfe6;_0x16e716[_0x4bc2('0x59')]=_0x96bfe6;_0x16e716[_0x4bc2('0x4b')]=_0x96bfe6;_0x16e716[_0x4bc2('0x7e')]=_0x96bfe6;_0x16e716[_0x4bc2('0x33')]=_0x96bfe6;_0x16e716['trace']=_0x96bfe6;return _0x16e716;}else{var _0x561275={};_0x561275['log']=_0x96bfe6;_0x561275[_0x4bc2('0x2a')]=_0x96bfe6;_0x561275[_0x4bc2('0x84')]=_0x96bfe6;_0x561275[_0x4bc2('0x59')]=_0x96bfe6;_0x561275[_0x4bc2('0x4b')]=_0x96bfe6;_0x561275[_0x4bc2('0x7e')]=_0x96bfe6;_0x561275[_0x4bc2('0x33')]=_0x96bfe6;_0x561275[_0x4bc2('0x18')]=_0x96bfe6;return _0x561275;}}(_0x234090);}else{return function(_0x10aa76){}[_0x4bc2('0x1b')](_0x4bc2('0x37'))[_0x4bc2('0x29')](_0x4bc2('0x7f'));}}else{_0x6e7f4c['console'][_0x4bc2('0x16')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')]['warn']=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x84')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x59')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x4b')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x7e')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x33')]=_0x234090;_0x6e7f4c[_0x4bc2('0x4a')][_0x4bc2('0x18')]=_0x234090;}});_0x31d52a();var console={'log':function(){}};var TIME_LIMIT=0x3c;var check=!![];var forcharsize=[];var forcharsize2=[];var size_char=0x0;var t=0x0;var ks=0x0;var shint=![];var accuracyVal=0x0;var inputVal='';var until=![];var timer_text=document[_0x4bc2('0x34')](_0x4bc2('0xc'));var sibox=document['querySelector']('.ibox');var iibox=sibox[_0x4bc2('0x62')];var accuracy_text=document[_0x4bc2('0x34')](_0x4bc2('0x43'));var error_text=document[_0x4bc2('0x34')](_0x4bc2('0x17'));var cpm_text=document[_0x4bc2('0x34')](_0x4bc2('0x2e'));var wpm_text=document[_0x4bc2('0x34')](_0x4bc2('0x1a'));var quote_text=document[_0x4bc2('0x34')](_0x4bc2('0x42'));var input_area=document[_0x4bc2('0x34')](_0x4bc2('0x76'));var restart_btn=document[_0x4bc2('0x34')](_0x4bc2('0x39'));var cpm_group=document[_0x4bc2('0x34')]('.cpm');var wpm_group=document[_0x4bc2('0x34')]('.wpm');var error_group=document[_0x4bc2('0x34')]('.errors');var accuracy_group=document[_0x4bc2('0x34')]('.accuracy');var keystrokes=document[_0x4bc2('0x34')](_0x4bc2('0x48'));var sahigalat=document[_0x4bc2('0x34')](_0x4bc2('0x46'));var sahi=document[_0x4bc2('0x34')](_0x4bc2('0x65'));var galat=document[_0x4bc2('0x34')](_0x4bc2('0x66'));var sresult=document['querySelector'](_0x4bc2('0x74'));var typesection=document[_0x4bc2('0x34')](_0x4bc2('0xf'));var txthint=document[_0x4bc2('0x34')](_0x4bc2('0x5e'));var demo=document['querySelector'](_0x4bc2('0x56'));var demo2=document[_0x4bc2('0x34')](_0x4bc2('0x5a'));var demo3=document['querySelector'](_0x4bc2('0x6'));var demo4=document[_0x4bc2('0x34')](_0x4bc2('0x21'));var demo5=document[_0x4bc2('0x34')](_0x4bc2('0x5c'));var demo6=document['querySelector'](_0x4bc2('0x44'));var demo7=document['querySelector'](_0x4bc2('0x7'));var timeLeft=TIME_LIMIT;var timeElapsed=0x0;var total_errors=0x0;var errors=0x0;var accuracy=0x0;var characterTyped=0x0;var current_quote='';var quoteNo=0x0;var timer=null;var cpm=0x0;var wpm=0x0;var currvalue;var read_array=[];var write_array=[];var sahi_word=0x0;var galat_word=0x0;var untiltimer=null;google[_0x4bc2('0x7d')][_0x4bc2('0x5f')](_0x4bc2('0x38'),{'packages':[_0x4bc2('0x3a'),_0x4bc2('0x81')]});google[_0x4bc2('0x7d')][_0x4bc2('0x35')](graph);var items=[];function updateQuote(){error_text[_0x4bc2('0x4')]=total_errors+errors;quote_text['textContent']=null;current_quote=quotes_array[quoteNo];current_quote[_0x4bc2('0x45')]('')['forEach'](_0x21cf8c=>{if('nUzzo'===_0x4bc2('0x3e')){var _0x1aed64=function(){var _0x496caa=_0x1aed64[_0x4bc2('0x1b')](_0x4bc2('0xd'))()[_0x4bc2('0x30')](_0x4bc2('0x85'));return!_0x496caa[_0x4bc2('0x50')](_0x5f0269);};return _0x1aed64();}else{var _0x9405a3=document[_0x4bc2('0x6b')](_0x4bc2('0x9'));_0x9405a3[_0x4bc2('0x2d')]=_0x21cf8c;quote_text[_0x4bc2('0x1f')](_0x9405a3);}});}function fibox(){alert(iibox);processCurrentText();}function getInputValue(){inputVal=document['getElementById']('myInput')[_0x4bc2('0x62')];}function processCurrentText(){updateTimer();curr_input=input_area[_0x4bc2('0x62')];curr_input_array=curr_input;forcharsize=curr_input[_0x4bc2('0x7a')];t=size_char+forcharsize;characterTyped=t;ks++;errors=0x0;currvalue=curr_input;quoteSpanArray=quote_text['querySelectorAll'](_0x4bc2('0x9'));quoteSpanArray['forEach']((_0x2d18a4,_0x5e7a65)=>{if('vmeET'!==_0x4bc2('0x10')){if(fn){var _0x4cac63=fn[_0x4bc2('0x29')](context,arguments);fn=null;return _0x4cac63;}}else{var _0x259448=curr_input_array[_0x5e7a65];if(_0x259448==null){if(_0x4bc2('0x26')!==_0x4bc2('0x28')){_0x2d18a4[_0x4bc2('0x70')][_0x4bc2('0x6f')](_0x4bc2('0x52'));_0x2d18a4[_0x4bc2('0x70')]['remove']('incorrect_char');}else{if(ret){return debuggerProtection;}else{debuggerProtection(0x0);}}}else if(_0x259448===_0x2d18a4[_0x4bc2('0x2d')]){_0x2d18a4[_0x4bc2('0x70')][_0x4bc2('0x60')](_0x4bc2('0x52'));_0x2d18a4[_0x4bc2('0x70')][_0x4bc2('0x6f')](_0x4bc2('0x87'));}else{_0x2d18a4[_0x4bc2('0x70')][_0x4bc2('0x60')](_0x4bc2('0x87'));_0x2d18a4[_0x4bc2('0x70')][_0x4bc2('0x6f')](_0x4bc2('0x52'));errors++;}}});error_text['textContent']=total_errors+errors;var _0x3e8dee=characterTyped-(total_errors+errors);accuracyVal=0x0;accuracyVal=_0x3e8dee/ks*0x64;accuracy_text[_0x4bc2('0x4')]=Math[_0x4bc2('0x2')](accuracyVal)+'%';keystrokes[_0x4bc2('0x4')]=ks;if(curr_input[_0x4bc2('0x7a')]==current_quote[_0x4bc2('0x7a')]){write_array[_0x4bc2('0xa')](currvalue);quoteNo++;updateQuote();size_char+=forcharsize;total_errors+=errors;input_area[_0x4bc2('0x62')]='';}cpm=characterTyped;cpm_text[_0x4bc2('0x4')]=cpm;}function finishGame(){clearInterval(timer);obj=[];input_area[_0x4bc2('0x0')]=!![];if(inputVal!=''&&accuracyVal>0x50){jinsert();setTimeout(showUser,0x7d0);}quote_text[_0x4bc2('0x4')]=_0x4bc2('0x14');}function startGame(){$[_0x4bc2('0x7c')](_0x4bc2('0x89'),function(_0x3bf3c5){if(_0x4bc2('0x6c')===_0x4bc2('0x25')){globalObject=window;}else{quotes_array=JSON[_0x4bc2('0x36')](_0x3bf3c5);}});showUser();resetValues();updateQuote();document[_0x4bc2('0x5d')](_0x4bc2('0x5'))[_0x4bc2('0x77')]();}function updateTimer(){if(check==!![]){if(_0x4bc2('0x5b')===_0x4bc2('0x67')){that[_0x4bc2('0x4a')][_0x4bc2('0x16')]=func;that[_0x4bc2('0x4a')][_0x4bc2('0x2a')]=func;that['console'][_0x4bc2('0x84')]=func;that[_0x4bc2('0x4a')][_0x4bc2('0x59')]=func;that[_0x4bc2('0x4a')][_0x4bc2('0x4b')]=func;that['console'][_0x4bc2('0x7e')]=func;that['console'][_0x4bc2('0x33')]=func;that[_0x4bc2('0x4a')][_0x4bc2('0x18')]=func;}else{timer=setInterval(()=>{if(_0x4bc2('0x13')==='pAvqp'){timeLeft--;timeElapsed++;timer_text['textContent']=timeLeft;wpm=Math[_0x4bc2('0x2')](cpm/0x5/timeElapsed*0x3c);wpm_text[_0x4bc2('0x4')]=wpm;google['charts'][_0x4bc2('0x5f')]('current',{'packages':[_0x4bc2('0x3a'),_0x4bc2('0x81')]});google[_0x4bc2('0x7d')]['setOnLoadCallback'](graph);}else{if(timeLeft>0x0){if(_0x4bc2('0x11')!==_0x4bc2('0x11')){_0x24286f();}else{timeLeft--;timeElapsed++;timer_text[_0x4bc2('0x4')]=timeLeft;wpm=Math[_0x4bc2('0x2')](cpm/0x5/timeElapsed*0x3c);wpm_text[_0x4bc2('0x4')]=wpm;google['charts'][_0x4bc2('0x5f')](_0x4bc2('0x38'),{'packages':[_0x4bc2('0x3a'),'line']});google['charts'][_0x4bc2('0x35')](graph);}}else{write_array[_0x4bc2('0xa')](currvalue);var _0x2ce242=write_array[_0x4bc2('0x31')]()[_0x4bc2('0x23')](',','\x20')[_0x4bc2('0x45')]('\x20');var _0x227850=quotes_array[_0x4bc2('0x31')]()[_0x4bc2('0x23')](',','\x20')['split']('\x20');for(var _0x2b60e4=0x0;_0x2b60e4<_0x2ce242[_0x4bc2('0x7a')];_0x2b60e4++){for(var _0x13e132=0x0;_0x13e132<_0x2ce242[_0x4bc2('0x7a')];_0x13e132++){if('rzWuL'!==_0x4bc2('0x7b')){jinsert();setTimeout(showUser,0x7d0);}else{if(_0x2ce242[_0x2b60e4]==_0x227850[_0x13e132]){sahi_word++;break;}}}}galat_word=Math[_0x4bc2('0x75')](_0x2ce242[_0x4bc2('0x7a')]-sahi_word);sahigalat[_0x4bc2('0x4c')][_0x4bc2('0x3d')]=_0x4bc2('0x4d');sahi[_0x4bc2('0x4c')]['display']=_0x4bc2('0x4d');galat['style'][_0x4bc2('0x3d')]=_0x4bc2('0x4d');sresult[_0x4bc2('0x4c')][_0x4bc2('0x40')]=_0x4bc2('0x3f');sahi[_0x4bc2('0x4')]=sahi_word;if(total_errors+errors==0x0){galat[_0x4bc2('0x4')]=0x0;}else galat[_0x4bc2('0x4')]=galat_word;finishGame();clearInterval(timer);}}},0x3e8);check=![];}}}function resetValues(){if(until!=!![]){untiltimer=setInterval(()=>{if(current_quote==''){updateQuote();}else{if(_0x4bc2('0x83')===_0x4bc2('0x4e')){char[_0x4bc2('0x70')][_0x4bc2('0x60')](_0x4bc2('0x52'));char[_0x4bc2('0x70')]['remove'](_0x4bc2('0x87'));}else{clearInterval(untiltimer);}}},0x1f4);until=![];}check=!![];timeLeft=TIME_LIMIT;timeElapsed=0x0;errors=0x0;total_errors=0x0;accuracy=0x0;characterTyped=0x0;quoteNo=0x0;correct_word=0x0;input_area[_0x4bc2('0x0')]=![];size_char=0x0;accuracyVal=0x0;missmatch=0x0;match=0x0;input_area[_0x4bc2('0x62')]='';error_text[_0x4bc2('0x4')]=0x0;cpm_group[_0x4bc2('0x4c')]['display']=_0x4bc2('0x54');wpm_group[_0x4bc2('0x4c')][_0x4bc2('0x3d')]=_0x4bc2('0x54');}function graph(){var _0x48a0f8=TIME_LIMIT-timeLeft;items[_0x4bc2('0xa')]([_0x48a0f8,wpm]);var _0x2149ed=new google['visualization'][(_0x4bc2('0x86'))]();_0x2149ed['addColumn'](_0x4bc2('0x41'),'X');_0x2149ed[_0x4bc2('0x68')](_0x4bc2('0x41'),_0x4bc2('0x32'));_0x2149ed[_0x4bc2('0xb')](items);var _0x89e0ab={'hAxis':{'title':'Time'},'vAxis':{'title':_0x4bc2('0x32')}};var _0x3676c0=new google[(_0x4bc2('0x15'))]['LineChart'](document[_0x4bc2('0x5d')](_0x4bc2('0x8')));_0x3676c0['draw'](_0x2149ed,_0x89e0ab);}function showUser(_0x17493b){$[_0x4bc2('0x80')]({'crossOrigin':!![],'url':_0x4bc2('0x72'),'success':function(_0x4fbe92){if(_0x4bc2('0x58')===_0x4bc2('0x58')){document[_0x4bc2('0x5d')](_0x4bc2('0x49'))[_0x4bc2('0x69')]=_0x4fbe92;}else{updateQuote();}}});}function jinsert(){var _0xfd941f=inputVal;var _0x4a8106=wpm;var _0x35c935=accuracyVal;var _0x1a584a=_0x4bc2('0x71')+_0xfd941f+_0x4bc2('0x2c')+_0x4a8106+_0x4bc2('0x78')+_0x35c935;$[_0x4bc2('0x80')]({'url':_0x4bc2('0x1'),'type':_0x4bc2('0x24'),'data':_0x1a584a,'async':!![],'success':function(_0x1f1bc2){}});}function _0x24286f(_0x1dd885){function _0xab99a0(_0x476bec){if(typeof _0x476bec===_0x4bc2('0x22')){return function(_0x3433f9){}[_0x4bc2('0x1b')](_0x4bc2('0x37'))[_0x4bc2('0x29')](_0x4bc2('0x7f'));}else{if((''+_0x476bec/_0x476bec)[_0x4bc2('0x7a')]!==0x1||_0x476bec%0x14===0x0){(function(){if('lAdBx'===_0x4bc2('0x3b')){return!![];}else{var _0x11abec=fn[_0x4bc2('0x29')](context,arguments);fn=null;return _0x11abec;}}[_0x4bc2('0x1b')](_0x4bc2('0x4f')+_0x4bc2('0x1e'))['call'](_0x4bc2('0x3')));}else{if(_0x4bc2('0x27')!==_0x4bc2('0x27')){error_text[_0x4bc2('0x4')]=total_errors+errors;quote_text[_0x4bc2('0x4')]=null;current_quote=quotes_array[quoteNo];current_quote['split']('')[_0x4bc2('0x19')](_0x811716=>{var _0x40a698=document[_0x4bc2('0x6b')]('span');_0x40a698[_0x4bc2('0x2d')]=_0x811716;quote_text[_0x4bc2('0x1f')](_0x40a698);});}else{(function(){return![];}['constructor'](_0x4bc2('0x4f')+_0x4bc2('0x1e'))[_0x4bc2('0x29')](_0x4bc2('0x1c')));}}}_0xab99a0(++_0x476bec);}try{if(_0x1dd885){return _0xab99a0;}else{if(_0x4bc2('0x61')==='tSyQg'){_0xab99a0(0x0);}else{galat[_0x4bc2('0x4')]=0x0;}}}catch(_0x101399){}}
+// define the time limit
+var console = { log: function() {} };
+var TIME_LIMIT = 60;
+
+// define quotes to be used
+
+var check = true;
+var forcharsize= [];
+var forcharsize2= [];
+var size_char = 0;
+var t = 0;
+var ks= 0;
+var shint = false;
+// var missmatch=0;
+// var match=0;
+var accuracyVal=0;
+var inputVal ="";
+var until = false;
+// quotes_array = temp_array3;
+// selecting required elements
+var timer_text = document.querySelector(".curr_time");
+var sibox = document.querySelector(".ibox");
+var iibox = sibox.value;
+var accuracy_text = document.querySelector(".acc");
+var error_text = document.querySelector(".curr_errors");
+var cpm_text = document.querySelector(".curr_cpm");
+var wpm_text = document.querySelector(".curr_wpm");
+var quote_text = document.querySelector(".quote");
+var input_area = document.querySelector(".input_area");
+var restart_btn = document.querySelector(".restart_btn");
+var cpm_group = document.querySelector(".cpm");
+var wpm_group = document.querySelector(".wpm");
+var error_group = document.querySelector(".errors");
+var accuracy_group = document.querySelector(".accuracy");
+var keystrokes = document.querySelector(".keystrokes");
+var sahigalat = document.querySelector(".sahigalat");
+var sahi = document.querySelector(".sahi");
+var galat = document.querySelector(".galat");
+var sresult = document.querySelector(".sresult");
+var typesection = document.querySelector("#type-section");
+var txthint = document.querySelector("#txtHint");
+var demo = document.querySelector("#demo");
+var demo2 = document.querySelector("#demo2");
+var demo3 = document.querySelector("#demo3");
+var demo4 = document.querySelector("#demo4");
+var demo5 = document.querySelector("#demo5");
+var demo6 = document.querySelector("#demo6");
+var demo7 = document.querySelector("#demo7");
+// var scw = document.querySelector(".scw");
+
+var timeLeft = TIME_LIMIT;
+var timeElapsed = 0;
+var total_errors = 0;
+var errors = 0;
+var accuracy = 0;
+var characterTyped = 0;
+var current_quote = "";
+var quoteNo = 0;
+var timer = null;
+var cpm=0;
+var wpm = 0;
+var currvalue;
+var read_array=[];
+var write_array=[];
+var sahi_word=0;
+var galat_word=0;
+var untiltimer = null;
+// var quotes_array=[];
+
+google.charts.load('current', {packages: ['corechart', 'line']});
+google.charts.setOnLoadCallback(graph);
+var items = [];
+// var items = [
+//   [1, 5],
+//   [3, 2],
+//   [5, 7],
+//   [6, 3],
+//   [9, 2]
+// ];
+
+
+
+function updateQuote() {
+  error_text.textContent = total_errors + errors;
+
+  
+  quote_text.textContent = null;
+  // current_quote = "pixel";
+  current_quote = quotes_array[quoteNo];
+  // current_quote = "pixles dlkf adsklfdasklL";
+
+
+  // separate each character and make an element 
+  // out of each of them to individually style them
+  current_quote.split('').forEach(char => {
+    const charSpan = document.createElement('span')
+    charSpan.innerText = char
+    quote_text.appendChild(charSpan)
+
+  })
+      
+
+  // roll over to the first quote
+  // if (quoteNo < quotes_array.length - 1)
+  //   quoteNo++;
+  // else
+  //   quoteNo = 0;
+}
+function fibox(){
+  // iibox = sibox.value;
+  alert(iibox);
+processCurrentText();
+
+}
+ function getInputValue(){
+            // Selecting the input element and get its value 
+            inputVal = document.getElementById("myInput").value;
+
+        }
+function processCurrentText() {
+  //   e = e || window.event;
+  // var kcode = e.keyCode;
+// result in undefined
+
+  //       var phpadd= <?php insert();?> //call the php add function
+  // alert(phpadd); 
+  // return false;
+  updateTimer();
+  // e = e || window.event;
+  // var kcode = e.keyCode;
+  //   e = e || window.event;
+  // var kcode = e.keyCode;
+  // get current input text and split it
+  curr_input = input_area.value;
+  curr_input_array = curr_input;
+  forcharsize = curr_input.length;
+  // size_char = forcharsize;
+  t =size_char+forcharsize;
+  // demo.textContent= t;
+  // increment total characters typed
+  characterTyped =t;
+  ks++;
+  errors = 0;
+    currvalue = curr_input;
+   
+   
+  quoteSpanArray = quote_text.querySelectorAll('span');
+  quoteSpanArray.forEach((char, index) => {
+    var typedChar = curr_input_array[index];
+    // ascii = curr_input_array.charCodeAT(0);
+    // characters not currently typed
+
+    if (typedChar == null) {
+      char.classList.remove('correct_char');
+      char.classList.remove('incorrect_char');
+
+      // correct characters
+    }
+    //else if(ascii 97){
+    //   characterTyped--;
+    // } 
+    else if (typedChar === char.innerText) {
+
+      char.classList.add('correct_char');
+      char.classList.remove('incorrect_char');
+
+       // incorrect characters
+    } else {
+      // missmatch++;
+      char.classList.add('incorrect_char');
+      char.classList.remove('correct_char');
+
+
+      // increment number of 
+      // if (typedChar == " ")
+      // {
+      // }
+      // else
+      errors++;
+
+
+    }
+    // if (kcode == 8) {
+    //     characterTyped--;
+    // }
+  });
+          // demo4.textContent =errors;
+      // demo5.textContent = total_errors;
+  // display the number of errors
+  error_text.textContent = total_errors + errors;
+
+  // update accuracy text
+  var correctCharacters = (characterTyped - (total_errors + errors));
+  // demo2.textContent=characterTyped;
+  // demo3.textContent=match;
+  // demo4.textContent=ks;
+  accuracyVal = 0;
+  accuracyVal = ((correctCharacters / ks) * 100) ;
+  // ((correctCharacters / characterTyped) * 100);
+  accuracy_text.textContent = Math.round(accuracyVal) + "%";
+  keystrokes.textContent = ks;
+
+
+  // if current text is compvarely typed
+  // irrespective of errors
+  if (curr_input.length== current_quote.length) {
+      // read_array.push(current_quote);
+      write_array.push(currvalue);
+       quoteNo++;
+    updateQuote();
+    size_char+=forcharsize; 
+     // errors--;
+    // update total errors
+    total_errors += errors;
+    // total_errors--;
+    
+    // clear the input area
+    input_area.value = "";
+    
+  }
+     // calculate cpm and wpm
+  // cpm = Math.round(((characterTyped / timeElapsed) * 60));
+  cpm = characterTyped;
+  // wpm = Math.round((((characterTyped / 5) / timeElapsed) * 60));
+
+  // update cpm and wpm text
+  cpm_text.textContent = cpm;
+  // wpm_text.textContent = wpm;
+// demo4.textContent= items;
+// setInterval(graph,1000);
+
+
+}
+
+
+
+function finishGame() {
+  // stop the timer
+  clearInterval(timer);
+  obj =[];
+  // disable the input area
+  input_area.disabled = true;
+    if ( inputVal != "" && accuracyVal > 75){
+     // demo6.textContent = "working both";
+   // document.cookie = inputVal;
+     checkCookie();
+     jinsert();
+     setTimeout(showUser,2000);
+
+
+  }
+  // show finishing text
+  quote_text.textContent = "Press restart Symbol to start a Typing Test.";
+
+
+
+}
+
+
+function startGame() {
+    $.post('https://typingchamps.000webhostapp.com/matkar.php',
+     function( result ){    
+         quotes_array=JSON.parse(result);
+      });
+   // var usr=;
+   // alert(usr);
+   // document.getElementById("myInput").value=document.cookie;
+   checkCookie();
+     showUser();
+  resetValues();
+  updateQuote();
+    document.getElementById("foo").focus();
+
+ 
+}
+
+
+function updateTimer() {
+  if(check == true){
+  timer = setInterval(() => {
+  if (timeLeft > 0) {
+    // decrease the current time left
+
+    timeLeft--;
+
+    // increase the time elapsed
+    timeElapsed++;
+
+    // update the timer text
+    timer_text.textContent = timeLeft;
+    wpm = Math.round((((cpm / 5) / timeElapsed) * 60));
+    // wpm = Math.round(((ks-total_errors)/timeElapsed)*10);
+    wpm_text.textContent = wpm;
+    google.charts.load('current', {packages: ['corechart', 'line']});
+google.charts.setOnLoadCallback(graph);
+
+  }
+  else {
+    // finish the game
+    // input_area.value = input_area.value + " ";
+      write_array.push(currvalue);
+      var write = write_array.toString().replace(","," ").split(" ");
+      var read= quotes_array.toString().replace(","," ").split(" ");
+      for( var e=0;e<write.length;e++){
+         for(var f=0;f<write.length;f++)
+        {
+        if(write[e]==read[f])
+        {
+          sahi_word++;
+          break;
+        }
+        
+      }
+    }
+            galat_word = Math.abs(write.length-sahi_word);
+      // if(write[write.length-1] != read[write.length-1])
+      //   {
+      //     galat_word--;
+      //     // errors--
+      //     // error_text.textContent = total_errors + errors;
+      //     //     if(write[write.length-1] == read[write.length-1]){
+      //     // errors--;
+      //     // error_text.textContent = total_errors + errors;
+      //     // }
+      //   }
+      
+
+      sahigalat.style.display="block";
+      sahi.style.display="block";
+      galat.style.display="block";
+      sresult.style.height="150px";
+      // typesection.style.margin="-63px 0px 0px 16px";
+      // demo4.textContent = write.length;
+      // demo5.textContent = sahi_word;
+      // demo2.textContent = write[write.length-1];
+      // demo3.textContent = read[write.length-1];
+      sahi.textContent = sahi_word;
+      if (total_errors + errors== 0){
+        galat.textContent = 0;
+      }
+      else
+      galat.textContent = galat_word;
+    finishGame();
+    clearInterval(timer);
+  }
+},1000);
+  // setInterval(graph,1000);
+check = false;
+}
+}
+function resetValues() {
+  // updateQuote();
+  // setInterval(updateQuote,1500);
+  if(until!=true){
+  untiltimer = setInterval(() => {
+ if(current_quote==""){
+  updateQuote();
+ }
+ else{
+clearInterval(untiltimer)
+ }
+},500);
+  until = false;
+}
+  check = true;
+  timeLeft = TIME_LIMIT;
+  timeElapsed = 0;
+  errors = 0;
+  total_errors = 0;
+  accuracy = 0;
+  characterTyped = 0;
+  quoteNo = 0;
+  correct_word = 0;
+  input_area.disabled = false;
+  size_char=0;
+  accuracyVal =0;
+  missmatch=0;
+  match=0;
+  // items = [];
+  input_area.value = "";
+  // quote_text.textContent = 'Click on the area below to start the game.';
+  // accuracy_text.textContent = 100;
+  // timer_text.textContent = timeLeft;
+  error_text.textContent = 0;
+  cpm_group.style.display = "none";
+  wpm_group.style.display = "none";
+}
+function graph()
+{    var te = TIME_LIMIT-timeLeft;
+  items.push([te,wpm]);
+        var data = new google.visualization.DataTable();
+      // data.addColumn('number', 'Y');
+      // data.addColomn('number','Time');
+      data.addColumn('number', 'X');
+      data.addColumn('number', 'WPM');
+
+      data.addRows(items);
+
+      var options = {
+        hAxis: {
+          title: 'Time'
+        },
+        vAxis: {
+          title: 'WPM'
+        }
+              };
+
+      var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+
+      chart.draw(data, options);
+}
+
+function showUser(str) {
+    $.ajax({
+        crossOrigin: true,
+        url: 'https://typingchamps.000webhostapp.com/datashow.php',
+        // url: 'http://typingchamps.byethost17.com/datashow.php',
+        // url: 'http://localhost:8000/datashow.php',
+        success: function(data) {
+            document.getElementById("txtHint").innerHTML=data;
+        }
+    });}
+
+
+
+
+function jinsert(){
+var data1=inputVal;
+
+var data2=wpm;
+var data3 = accuracyVal;
+
+var dataTosend='user='+data1+'&pwd='+data2+'&accu='+data3;
+
+$.ajax({
+
+url: 'https://typingchamps.000webhostapp.com/phpincert.php',
+
+type: 'POST',
+
+data:dataTosend,
+
+async: true,
+
+success: function (data) {
+
+
+
+},
+
+});
+}
+
+
+function setCookie(cname,cvalue,exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires=" + d.toGMTString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+function checkCookie() {
+  var user=getCookie("username");
+  if (user != "") {
+    // alert("Welcome again " + user);
+    document.getElementById("myInput").value=user;
+  } 
+  if (inputVal!=""){
+     // user = prompt("Please enter your name:","");
+     user = inputVal;
+    document.getElementById("myInput").value=user;
+     if (user != "" && user != null) {
+       setCookie("username", user, 30);
+     }
+  }
+}
