@@ -1,6 +1,6 @@
 // define the time limit
 var console = { log: function() {} };
-var TIME_LIMIT = 60;
+var TIME_LIMIT = 2;
 
 // define quotes to be used
 
