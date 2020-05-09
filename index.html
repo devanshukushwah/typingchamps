@@ -1,73 +1,122 @@
+<!doctype html>
 <html lang="en">
-<head>
+  <head>
+    <!-- Required meta tags -->
     <meta name="description" content="Free typing website">
-  <meta name="keywords" content="typing champ, typing champs, typing, typing website, typingchamps, typingchamp, typingchamps.com, typingchamp.com, typing speed checker online,typing tutor, typing speed increaser,learn how to type,how to increase typing speed ">
+
+  <meta name="keywords" content="typing, typing website, typingchamps, typingchamp, typingchamps.com, typingchamp.com, typing speed checker online,typing tutor, typing speed increaser,learn how to type,how to increase typing speed ">
+
   <meta name="author" content="Arun and Devanshu">
+
   <title>TypingChamps - This is typing website that increase your typing speed.</title>
-  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
-  <script src="jquery-3.5.0.min.js"></script>
+
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
-  <link rel="stylesheet" href="style.css">
-  <script data-ad-client="ca-pub-4940545543922013" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
   <script src="game.js" defer></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163093625-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-163093625-1');
-</script>
-</head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<!-- <body onload="startGame()"> -->
-<body onload="startGame()">
-  <div id="header">
-      <ul>
-      <center>
-  <li><a class="active" href="#home">&nbsp;&nbsp;&nbsp;&nbsp;Typing Champs + logo&nbsp;&nbsp;</a></li>
-  <li><a href="index.html">&nbsp;&nbsp;&nbsp;&nbsp;Typing Test&nbsp;&nbsp;</a></li>
-  <li><a href="#contact">&nbsp;&nbsp;&nbsp;&nbsp;Typing Games&nbsp;&nbsp;</a></li>
-  <li><a href="learnhowtotype.html">&nbsp;&nbsp;&nbsp;&nbsp;Learn How To Type&nbsp;&nbsp;</a></li>
-  <li><a href="customkeystrokes.html">&nbsp;&nbsp;&nbsp;&nbsp;Custom Key Strokes&nbsp;&nbsp;</a></li>
-  <li><a href="#about">&nbsp;&nbsp;&nbsp;&nbsp;About Us&nbsp;&nbsp;</a></li>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-  <!-- <li><a href="#about">&nbsp;Log In/ Sign Up&nbsp;</a></li> -->
-</center>
-</ul>
-</div>
-   
-    <section class="ibox">
+  <link rel="stylesheet" href="newstyle.css">
+    <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">TypingChamps</a>
+  <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="navbar-collapse collapse" id="navbarsExample03" style="">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Typing Test<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Typing Games</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="learnhowtotype.html">Learn how to type</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="customkeystrokes.html">Custom Keystrokes</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#about">About</a>
+      </li>
+    <!--   <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+      </li> -->
+     <!--  <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown03">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li> -->
+    </ul>
+ <!--    <form class="form-inline my-2 my-md-0">
+      <input class="form-control" type="text" placeholder="Search">
+    </form> -->
+  </div>
+</nav>
+   <div class="ibox">
     <label>If You Want To Rank Your Typing Speed:</label>
-    <!-- <input placeholder="Type Your Name" onkeydown="fibox()"></input> -->
      <input type="text" placeholder="Type Your Name" id="myInput" oninput="getInputValue();">
-    <!-- <button type="button" onclick="getInputValue();">Get Value</button> -->
-   </section>    
-    <!-- <div class="quote">Click on the area below to start the game.</div> -->
-    <div id="block_container" class="inputoutput1">
-        <section class="quote">
+   </div>  
+
+
+ <div class="quote">
       <div class="loader"></div>
 
-    </section>
-      <section class="sresult">
-       
-        <table>
-     <tr><td><div style="font-size:23px;">Accuracy:</div></td>
-      <td><div style="font-size:23px" class="acc">0%</div></td>
+    </div>
+
+
+   <div id="type-section" style="" class="inputoutput2">
+    <input class="input_area" id="foo" style="" placeholder="start typing here..." oninput="processCurrentText()" autofocus></input>
+  
+    <div id="timer" class="type-btn"><div class="curr_time" style="font-size:32px;margin-top:6%">1:00</div></div>
+    <a  href="index.html"><button  id="restart" class="restart_btn" tabindex="2" >
+        <span id="restart-symbol"><i  class="fa fa-refresh fa-spin" style="font-size:24px;padding:0px 8px;"></i></a></span>
+ 
+    </button>
+      </a>
+  </div>
+
+
+
+  <div class="sresult">
+      <table class="table table-striped" style="height:100px">
+     <tr><td><div style="font-size:20px;">Accuracy:</div></td>
+      <td><div style="font-size:20px" class="acc">0%</div></td>
     </tr>
     <tr>
-      <td><div style="font-size:22px;">WPM:</div></td>
-      <td><div style="font-size:22px;" class="curr_wpm">0</div></td>
+      <td><div style="font-size:20px;">WPM:</div></td>
+      <td><div style="font-size:20px;" class="curr_wpm">0</div></td>
     </tr>
     <tr>
-      <td><div style="font-size: 18px;">Keystrokes:</div></td>
-      <td><div style="font-size: 18px;" class="keystrokes">0</div></td>
+      <td><div style="font-size: 20px;">Keystrokes:</div></td>
+      <td><div style="font-size: 20px;" class="keystrokes">0</div></td>
     </tr>
     <tr>  
-      <td><div style="font-size: 18px;">Character Typed:</div></td>
+      <td><div style="font-size: 18px;">Word Typed:</div></td>
       <td><div style="font-size: 18px;" class="curr_cpm">0</div></td>
     </tr>
       <!-- <div style="font-size: 15px;">Correct Words:<div style="font-size: 15px;" class="scw">0</div></div> -->
@@ -80,68 +129,75 @@
       <td><div style="font-size: 18px;float:left;" class="sahi">0</div><div style="font-size: 18px;float:right;" class="galat">0</div></td>
     </tr>
       </table>
-    </section>
-  </div>
+    </div>
+  <div class="rresult">
+   <div id="txtHint"><b></b></div>
+</div>
 
 
 
 
-  <section class="rresult">
-   <div id="txtHint"><b>Person Typing ranks will be listed here.</b></div>
-</section>
 
-         <!-- $sql = "SELECT * from rank ORDER BY wpm DESC LIMIT 1,10"; -->
+    <div id="chart_div" class="chart_div" style="width: 600px;height: 300px; margin: 10px 0px 0px 20px;"></div>
 
 
+
+    <section id="footer" style="margin-top:160px">
+    <div class="container">
+      <div class="row text-center text-xs-center text-sm-left text-md-left">
+        <div class="col-xs-12 col-sm-4 col-md-4">
+          <ul class="list-unstyled quick-links">
+            <li><a href="index.html"><i class="fa fa-angle-double-right"></i>Home</a></li>
+            <li><a href=""><i class="fa fa-angle-double-right"></i>About</a></li>
+            <li><a href="FAQ.html"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
+            <li><a href="learnhowtotype.html"><i class="fa fa-angle-double-right"></i>Learn How to type</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4">
+          <ul class="list-unstyled quick-links">
+                       <li><a href="index.html"><i class="fa fa-angle-double-right"></i>Home</a></li>
+            <li><a href=""><i class="fa fa-angle-double-right"></i>About</a></li>
+            <li><a href="FAQ.html"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
+            <li><a href="learnhowtotype.html"><i class="fa fa-angle-double-right"></i>Learn How to type</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4">
+          <ul class="list-unstyled quick-links">       
+               <li><a href="index.html"><i class="fa fa-angle-double-right"></i>Home</a></li>
+            <li><a href=""><i class="fa fa-angle-double-right"></i>About</a></li>
+            <li><a href="FAQ.html"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
+            <li><a href="learnhowtotype.html"><i class="fa fa-angle-double-right"></i>Learn How to type</a></li></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
+          <ul class="list-unstyled list-inline social text-center">
+            <li class="list-inline-item"><a href=""><i class="fa fa-facebook"></i></a></li>
+            <li class="list-inline-item"><a href=""><i class="fa fa-twitter"></i></a></li>
+            <li class="list-inline-item"><a href=""><i class="fa fa-instagram"></i></a></li>
+            <li class="list-inline-item"><a href=""><i class="fa fa-google-plus"></i></a></li>
+            <li class="list-inline-item"><a href="" target="_blank"><i class="fa fa-envelope"></i></a></li>
+          </ul>
+        </div>
+        <hr>
+      </div>  
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+          <p><u><a href="">This is Cool typing Webiste.</p>
+          <p class="h6">© All right Reversed.<a class="text-green ml-2" href="index.html" target="_blank">TypingChamps</a></p>
+        </div>
+        <hr>
+      </div>  
+    </div>
   </section>
-   <section id="type-section" style="" class="inputoutput2">
-    <input class="input_area" id="foo" style="" placeholder="start typing here..." oninput="processCurrentText()" autofocus></input>
-  
-    <div id="timer" class="type-btn"><div class="curr_time" style="font-size:32px;margin-top:8%">1:00</div></div>
-    <a  href="index.html"><button  id="restart" class="restart_btn" tabindex="2" >
-        <span id="restart-symbol"><i  class="fa fa-refresh fa-spin" style="font-size:24px"></i></a></span>
- 
-    </button>
-      </a>
-  </section>
-  
 
 
-    <div id="chart_div" class="chart_div" style="width: 600px;height: 300px; margin: 95px 0px 0px 20px;"></div>
 
-<div id="demo"></div>
-<div id="demo2"></div>
-<div id="demo3"></div>
-<div id="demo4"></div>
-<div id="demo5"></div>
-<div id="demo6"></div>
-<div id="demo7"></div>
-
-
-<footer style="background-color: #99c2ff;">
-      <table id="footerid">
-    <tr><td style="float:left; ">
-    <table id ="table2">
-        <tr><td><a href="#" style="color: black;">Contact Us</a></td></tr>
-        <tr>  <td><a href="#"style="color: black;">Privacy Policy</a></td></tr>
-       <tr> <td><a href="FAQ.html"style="color: black;">FAQ</a></td>
-        </tr></table>
-      </td>
-      <td style="position:absolute;margin-left:50%">
-        <table id ="table2">
-        <tr>
-            <td><a href="index.html"style="color: black;">Typing Test</a></td>
-          </tr>
-        <tr><td><a href="#"style="color: black;">Help</a></td>
-        </tr>
-        <tr> 
-        <td><a href="#"style="color: black;">Support Us</a></td>
-            
-        </tr></table>
-      </td>
-      </table>
-    
-    </footer>
-
-</body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
 </html>
