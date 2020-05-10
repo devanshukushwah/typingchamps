@@ -245,3 +245,19 @@ section .section-title {
 .single_char {
   text-decoration: underline;
 }
+    #restart {
+  outline:none;
+  width: 2em;
+/*background-color: #99c2ff;*/
+  /*background-color: #68A143; */
+}
+  #restart > span {
+    display: inline-block;
+    transform: rotate(1.5Rad);
+    font-weight: bold; }
+  #restart:hover {
+    /*background-color: #467F21;*/
+    opacity:0.8;
+     }
+  #restart:active {
+    box-shadow: 1px 1px 4px #467F21 inset; }
