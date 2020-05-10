@@ -233,3 +233,15 @@ section .section-title {
   .sahigalat,.sahi,.galat{
     display:none;
   }
+
+.incorrect_char {
+  color: red;
+  text-decoration: underline;
+}
+
+.correct_char {
+  color: darkgreen;
+}
+.single_char {
+  text-decoration: underline;
+}
